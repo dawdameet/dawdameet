@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Meet! 👋
 
-<!--
-**dawdameet/dawdameet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **programmer** with a passion for **AI**, **machine learning**, and **backend development**. Currently working on a **custom language project** and **building a recommendation system**.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
+- **Languages:** Python, C++, JavaScript
+- **Frameworks:** Flask, React, Next.js
+- **Machine Learning:** Scikit-learn, TensorFlow, RandomForest
+- **Tools:** Docker, Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+- [Kairo Backend](https://github.com/dawdameet/kairo-backend) - A backend for serving predictions using RandomForest.
+- [Typo](https://github.com/dawdameet/typo) - A no-login blog app.
+
+## 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/dawdameet)
+- [Twitter](https://twitter.com/dawdameet)
