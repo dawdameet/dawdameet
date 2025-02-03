@@ -10,8 +10,8 @@ I'm a **programmer** with a passion for **AI**, **machine learning**, and **back
 
 ## 🛠️ Featured Projects
 - [Kairo Backend](https://github.com/dawdameet/kairo-backend) - A backend for serving predictions using RandomForest.
-- [Typo](https://github.com/dawdameet/typo) - A no-login blog app.
+
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/dawdameet)
-- [Twitter](https://twitter.com/dawdameet)
+- [LinkedIn](www.linkedin.com/in/meet-dawda-5b9b20339)
+- [Twitter](https://x.com/DawdaMeet)
