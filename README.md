@@ -17,5 +17,5 @@ I'm a **programmer** with a passion for **AI**, **machine learning**, and **back
 
 
 ## 💬 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/meet-dawda-5b9b20339)
+- [LinkedIn](https://www.linkedin.com/in/meet-dawda-5b9b20339)
 - [Twitter](https://x.com/DawdaMeet)
