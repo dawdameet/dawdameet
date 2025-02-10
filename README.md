@@ -1,6 +1,4 @@
-Here’s a modified version of your README that better reflects your personality, interests, and projects:  
 
----
 
 # Hi, I'm Meet! 👋  
 ![Python Badge](https://img.shields.io/badge/Python-🔥_Master-orange)  
