@@ -1,33 +1,61 @@
 
+## 🚀 About Me
+Hey there! I'm **Meet**, an AI/ML enthusiast, systems programmer, and low-level engineering geek who loves breaking things just to rebuild them better. Whether it's designing AI-powered compilers, sniffing raw network packets, or crafting my own programming language from scratch, I'm all about pushing the boundaries of tech.
 
-# Hi, I'm Meet! 👋  
-![Python Badge](https://img.shields.io/badge/Python-🔥_Master-orange)  
-![Assembly Badge](https://img.shields.io/badge/Assembly-Low_Level_Wizard-white)  
-![C Badge](https://img.shields.io/badge/C-System_Programming_God-green)  
-![AI Badge](https://img.shields.io/badge/AI-ML_NLP_Researcher-blue)  
-![Security Badge](https://img.shields.io/badge/Hacking-Cybersecurity-red)  
+- 🔥 Hardcore low-level developer (OS dev, assembly, networking, cybersecurity)
+- 🤖 AI/ML researcher (NLP, stock prediction, AI-native programming languages)
+- 🔍 Security explorer (raw sockets, packet sniffing, Tor relays, secure file transfer)
+- 🌎 Building real-world impact projects (AI-based emergency response for Mansar, India)
+- 🎤 Eminem fan—because good code needs a good beat
 
-I'm a **programmer, AI researcher, and low-level systems enthusiast** who loves pushing the boundaries of **AI, networking, and security**. Currently, I'm building:  
-🚀 **A custom AI-native programming language** 🧠  
-⚡ **A Web3 GitHub alternative** ⛓️  
-📡 **A low-level network sniffer**  
+---
 
-## 🚀 My Tech Stack  
-- **Languages:** Python, C, C++, Assembly, Solidity  
-- **AI/ML:** TensorFlow, PyTorch, Scikit-Learn, NLP (TF-IDF)  
-- **Security & Networking:** Wireshark, Raw Sockets, Ethical Hacking  
-- **Frameworks & Tools:** Flask, Next.js, React Native, Docker, AWS  
+## 🛠️ What I'm Building
 
-## 🏆 Featured Projects  
-🔹 **[NeuroScrie](https://github.com/dawdameet/NeuroScribe)** – AI-Native Programming Language (**Self-Sufficient AI Models in .meet Files**)  
-🔹 **[Kairo UI](https://github.com/dawdameet/kairo-backend)** – Frontend for a real-time AI-driven recommendation system  
-🔹 **Peer-to-Peer Anonymous Messaging App** – Encrypted messaging on the **.onion network**  
-🔹 **Stock Prediction AI** – Predicting Indian stock market trends using ML  
+### 1️⃣ **A Bare-Metal AI Accelerator**
+A lightweight AI framework running directly on hardware (no OS needed), optimized for embedded systems. **Think AI inference on a Raspberry Pi without an OS!**
 
-## 💬 Let's Connect!  
-- **LinkedIn**: [Meet Dawda](https://www.linkedin.com/in/meet-dawda-5b9b20339)  
-- **Twitter (X)**: [@DawdaMeet](https://x.com/DawdaMeet)  
-- **GitHub**: [dawdameet](https://github.com/dawdameet)  
+### 2️⃣ **An AI-Native Programming Language**
+A new programming language designed for machine learning, featuring:
+- 🚀 YAML-like declarative syntax
+- 🧠 Built-in tensor operations & automatic differentiation
+- ⚡ GPU acceleration for AI workloads
 
-🔥 **I build things from scratch. I optimize at the lowest level. I break things to learn.**  
-🤖 **AI, Security, and Low-Level Systems are my world.**  
+### 3️⃣ **A Custom OS with AI Debugging**
+A minimalist kernel in C/Assembly, featuring an AI-powered debugging assistant that logs crashes and suggests fixes.
+
+### 4️⃣ **A Web3 GitHub Alternative**
+A decentralized, blockchain-powered platform for version control using **Ethers.js, MetaMask, and Hardhat**.
+
+---
+
+## 🔨 Notable Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛡️ **Raw Socket Sniffer** | A custom packet sniffer that analyzes network traffic at the lowest level |
+| 🏥 **AI-Based Emergency Response System** | React Native app to optimize ambulance dispatch in rural areas |
+| 🔍 **AI Fraud Detection (Android)** | An ML model using **RandomForest** to detect fraudulent transactions |
+| 🔧 **Kapitan Contribution** | Enhanced inventory fetching from remote locations (https/git) |
+| ⚡ **Stock Price Prediction AI** | Time-series ML model for predicting Indian stock trends |
+
+---
+
+## 📚 Currently Learning
+- **LLVM & AI-powered compiler optimizations**
+- **Advanced networking & cybersecurity**
+- **Bare-metal AI deployment**
+- **React Native for mobile AI applications**
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [github.com/dawdameet](#)
+- LinkedIn: [linkedin.com/in/meetdawda](#)
+- Email: dawdameet6338@gmail.com (drop a mail, let's build something crazy!)
+
+---
+
+## 🌟 Motto
+_"The best way to predict the future is to invent it."_
+
