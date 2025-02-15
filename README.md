@@ -1,61 +1,67 @@
+# **🚀 Meet Dawda | AI-Native Systems Engineer & Cybersecurity Enthusiast**  
 
-## 🚀 About Me
-Hey there! I'm **Meet**, an AI/ML enthusiast, systems programmer, and low-level engineering geek who loves breaking things just to rebuild them better. Whether it's designing AI-powered compilers, sniffing raw network packets, or crafting my own programming language from scratch, I'm all about pushing the boundaries of tech.
+Hey there! I'm **Meet**, an **AI/ML researcher, systems programmer, and security geek** who thrives on **low-level engineering and bleeding-edge AI**. Whether it's **designing AI-native compilers, optimizing neural networks, or crafting my own OS**, I **love pushing technology beyond its limits.**  
 
-- 🔥 Hardcore low-level developer (OS dev, assembly, networking, cybersecurity)
-- 🤖 AI/ML researcher (NLP, stock prediction, AI-native programming languages)
-- 🔍 Security explorer (raw sockets, packet sniffing, Tor relays, secure file transfer)
-- 🌎 Building real-world impact projects (AI-based emergency response for Mansar, India)
-- 🎤 Eminem fan—because good code needs a good beat
+🔥 **I break systems, optimize them, and rebuild them better.**  
 
----
-
-## 🛠️ What I'm Building
-
-### 1️⃣ **A Bare-Metal AI Accelerator**
-A lightweight AI framework running directly on hardware (no OS needed), optimized for embedded systems. **Think AI inference on a Raspberry Pi without an OS!**
-
-### 2️⃣ **An AI-Native Programming Language**
-A new programming language designed for machine learning, featuring:
-- 🚀 YAML-like declarative syntax
-- 🧠 Built-in tensor operations & automatic differentiation
-- ⚡ GPU acceleration for AI workloads
-
-### 3️⃣ **A Custom OS with AI Debugging**
-A minimalist kernel in C/Assembly, featuring an AI-powered debugging assistant that logs crashes and suggests fixes.
-
-### 4️⃣ **A Web3 GitHub Alternative**
-A decentralized, blockchain-powered platform for version control using **Ethers.js, MetaMask, and Hardhat**.
+### **💡 What I Do:**  
+- **🦀 Rust Systems Programming** → JIT compilers, OS internals, AI acceleration, LLVM optimizations  
+- **🔍 Reverse Engineering & Cybersecurity** → Raw sockets, exploit research, Tor relays, packet sniffing, and OS internals  
+- **🧠 AI/ML Researcher** → NLP, stock prediction, AI-powered compilers, fraud detection, and low-level AI optimizations  
+- **⚙️ Systems & Compiler Engineering** → OS dev, LLVM optimization, assembly, custom JIT interpreters, AI-native programming languages  
+- **🌐 Web3 & Blockchain Dev** → Smart contracts, decentralized storage, on-chain GitHub alternative  
+- **📡 Advanced Networking & Protocols** → Deep diving into **TCP/IP, HTTP, DNS, WebRTC, and P2P** architectures  
+- **🎤 Eminem Fan**—because hacking, coding, and rapping are all about **flow**  
 
 ---
 
-## 🔨 Notable Projects
+## **🛠️ What I'm Building**
+### **🚀 1. A Bare-Metal AI Accelerator (Rust + Assembly)**  
+A **lightweight AI framework** that runs **directly on hardware without an OS**. Imagine **AI inference on embedded systems, optimized for speed and efficiency.**  
 
-| Project | Description |
-|---------|-------------|
-| 🛡️ **Raw Socket Sniffer** | A custom packet sniffer that analyzes network traffic at the lowest level |
-| 🏥 **AI-Based Emergency Response System** | React Native app to optimize ambulance dispatch in rural areas |
-| 🔍 **AI Fraud Detection (Android)** | An ML model using **RandomForest** to detect fraudulent transactions |
-| 🔧 **Kapitan Contribution** | Enhanced inventory fetching from remote locations (https/git) |
-| ⚡ **Stock Price Prediction AI** | Time-series ML model for predicting Indian stock trends |
+### **🦀 2. Rust-Based AI Compiler & JIT Interpreter**  
+A **high-performance AI-native language compiler** written in **Rust**, featuring:  
+- **🧮 Built-in tensor operations & automatic differentiation**  
+- **🚀 GPU acceleration for deep learning**  
+- **⚡ AI-first syntax (not just another Python wrapper)**  
 
----
+### **🖥️ 3. A Custom OS with AI Debugging (Rust & C/Assembly)**  
+A minimalist **bare-metal OS** featuring an **AI-powered debugging assistant** that logs crashes and suggests fixes.  
 
-## 📚 Currently Learning
-- **LLVM & AI-powered compiler optimizations**
-- **Advanced networking & cybersecurity**
-- **Bare-metal AI deployment**
-- **React Native for mobile AI applications**
+### **🌐 4. A Web3 GitHub Alternative (Rust + Solidity)**  
+A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**—because **GitHub shouldn't be centralized.**  
 
 ---
 
-## 📫 How to Reach Me
-- GitHub: [github.com/dawdameet](#)
-- LinkedIn: [linkedin.com/in/meetdawda](#)
-- Email: dawdameet6338@gmail.com (drop a mail, let's build something crazy!)
+## **⚡ Notable Projects**
+| **🚀 Project** | **🔍 Description** |
+|--------------|-------------------|
+| **🦀 Rust-Based JIT Compiler** | Wrote a **JIT interpreter** in **Rust & LLVM** for **high-performance execution** |
+| **🛡️ Raw Socket Sniffer** | A **packet sniffer** built from scratch that analyzes low-level network traffic |
+| **🏥 AI Emergency Response System** | A **React Native AI-powered ambulance routing system** for rural India |
+| **🔍 AI Fraud Detection (Android)** | **RandomForest-powered ML model** to detect fraudulent transactions |
+| **🔧 Kapitan Contribution** | Implemented **remote inventory fetching** for Kapitan (**https/git**) |
+| **📈 Stock Price Prediction AI** | Built a **time-series ML model** for **predicting Indian stock trends** |
+| **⚡ AI-Powered Compiler Optimization** | Researching **AI-driven LLVM IR optimizations** for faster ML execution |
 
 ---
 
-## 🌟 Motto
-_"The best way to predict the future is to invent it."_
+## **📚 Currently Learning**
+- 🦀 **Advanced Rust (for OS dev, JIT compilers, AI optimizations)**  
+- 🔥 **AI-powered compiler optimizations (LLVM, MLIR, Rust backends)**  
+- 🌐 **Advanced networking (WebRTC, P2P, deep packet inspection)**  
+- 🏗 **Bare-metal AI & embedded deep learning**  
+- 📱 **React Native for mobile AI applications**  
+
+---
+
+## **📫 Connect with Me**
+- **GitHub** → [github.com/dawdameet](#)  
+- **LinkedIn** → [linkedin.com/in/meetdawda](#)  
+- **Email** → dawdameet6338@gmail.com (DM me if you want to build something wild!)  
+
+---
+
+## **🌟 Motto**
+_"The best way to predict the future is to invent it."_ 🚀  
 
