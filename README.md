@@ -1,54 +1,59 @@
-# **🚀 Meet Dawda | AI-Native Systems Engineer & Cybersecurity Enthusiast**  
+# ⚡ Meet Dawda | AI-Native Systems Engineer & Cybersecurity Enthusiast  
+
+🚀 **Low-Level AI Innovator | OS & Compiler Dev | Rust & Cybersecurity Geek**  
 
 Hey there! I'm **Meet**, an **AI/ML researcher, systems programmer, and security geek** who thrives on **low-level engineering and bleeding-edge AI**. Whether it's **designing AI-native compilers, optimizing neural networks, or crafting my own OS**, I **love pushing technology beyond its limits.**  
 
 🔥 **I break systems, optimize them, and rebuild them better.**  
 
-### **💡 What I Do:**  
-- **🦀 Rust Systems Programming** → JIT compilers, OS internals, AI acceleration, LLVM optimizations  
-- **🔍 Reverse Engineering & Cybersecurity** → Raw sockets, exploit research, Tor relays, packet sniffing, and OS internals  
-- **🧠 AI/ML Researcher** → NLP, stock prediction, AI-powered compilers, fraud detection, and low-level AI optimizations  
-- **⚙️ Systems & Compiler Engineering** → OS dev, LLVM optimization, assembly, custom JIT interpreters, AI-native programming languages  
-- **🌐 Web3 & Blockchain Dev** → Smart contracts, decentralized storage, on-chain GitHub alternative  
-- **📡 Advanced Networking & Protocols** → Deep diving into **TCP/IP, HTTP, DNS, WebRTC, and P2P** architectures  
-- **🎤 Eminem Fan**—because hacking, coding, and rapping are all about **flow**  
-
 ---
 
-## **🛠️ What I'm Building**
-### **🚀 1. A Bare-Metal AI Accelerator (Rust + Assembly)**  
-A **lightweight AI framework** that runs **directly on hardware without an OS**. Imagine **AI inference on embedded systems, optimized for speed and efficiency.**  
+## 🛠️ **Building the Future of AI & Systems**  
+### 🚀 **1. Low-Latency AI API (Rust on Windows)**
+A high-performance **AI inference API** designed to **outperform Flask and FastAPI** for real-time AI applications.  
 
-### **🦀 2. Rust-Based AI Compiler & JIT Interpreter**  
-A **high-performance AI-native language compiler** written in **Rust**, featuring:  
-- **🧮 Built-in tensor operations & automatic differentiation**  
+### 🦾 **2. AI-Native Programming Language (Rust & LLVM)**
+A **self-sufficient AI programming language** with:  
+- **🧮 Built-in tensors & automatic differentiation**  
 - **🚀 GPU acceleration for deep learning**  
-- **⚡ AI-first syntax (not just another Python wrapper)**  
+- **⚡ YAML-inspired, AI-first syntax**  
 
-### **🖥️ 3. A Custom OS with AI Debugging (Rust & C/Assembly)**  
-A minimalist **bare-metal OS** featuring an **AI-powered debugging assistant** that logs crashes and suggests fixes.  
+### 💻 **3. Bare-Metal AI Accelerator (Rust + Assembly)**
+A **lightweight AI framework** that runs **directly on hardware** without an OS—optimized for **embedded AI systems**.  
 
-### **🌐 4. A Web3 GitHub Alternative (Rust + Solidity)**  
-A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**—because **GitHub shouldn't be centralized.**  
+### 🛡️ **4. AI-Powered Compiler Optimization**
+Researching **AI-driven LLVM IR optimizations** for **faster ML execution**.  
 
-### **🚀 5. Low-Latency AI API (Rust on Windows)
-A high-performance AI inference API, built with Rust, optimized to outperform Flask and FastAPI for real-time AI applications.
+### 🌐 **5. Web3 GitHub Alternative (Rust + Solidity)**
+A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**.  
+
 ---
 
-## **⚡ Notable Projects**
+## 📌 **Technical Expertise**
+| **🔥 Field** | **🚀 Skills & Tools** |
+|-------------|------------------|
+| **⚙️ Low-Level Engineering** | OS dev, assembly, reverse engineering, Rust systems programming |
+| **🧠 AI & ML Research** | NLP, stock prediction, AI-powered compilers, fraud detection |
+| **🔍 Cybersecurity & Networking** | Raw sockets, exploit research, Tor relays, deep packet inspection |
+| **📡 Advanced Protocols** | TCP/IP, WebRTC, DNS, P2P, decentralized networking |
+| **🖥️ Compiler & JIT Dev** | LLVM, MLIR, Rust-based JIT interpreters, AI-first languages |
+| **🌐 Web3 & Blockchain** | Smart contracts, Ethers.js, Solidity, on-chain GitHub alternative |
+
+---
+
+## 🌟 **Notable Projects**
 | **🚀 Project** | **🔍 Description** |
 |--------------|-------------------|
-| **🦀 Rust-Based JIT Compiler** | Wrote a **JIT interpreter** in **Rust & LLVM** for **high-performance execution** |
-| **🛡️ Raw Socket Sniffer** | A **packet sniffer** built from scratch that analyzes low-level network traffic |
+| **🦀 Rust-Based JIT Compiler** | Built a **JIT interpreter** using **Rust & LLVM** for **high-speed execution** |
+| **🛡️ Raw Socket Sniffer** | A **packet sniffer** that analyzes low-level network traffic |
 | **🏥 AI Emergency Response System** | A **React Native AI-powered ambulance routing system** for rural India |
 | **🔍 AI Fraud Detection (Android)** | **RandomForest-powered ML model** to detect fraudulent transactions |
 | **🔧 Kapitan Contribution** | Implemented **remote inventory fetching** for Kapitan (**https/git**) |
 | **📈 Stock Price Prediction AI** | Built a **time-series ML model** for **predicting Indian stock trends** |
-| **⚡ AI-Powered Compiler Optimization** | Researching **AI-driven LLVM IR optimizations** for faster ML execution |
 
 ---
 
-## **📚 Currently Learning**
+## 📚 **Currently Learning**
 - 🦀 **Advanced Rust (for OS dev, JIT compilers, AI optimizations)**  
 - 🔥 **AI-powered compiler optimizations (LLVM, MLIR, Rust backends)**  
 - 🌐 **Advanced networking (WebRTC, P2P, deep packet inspection)**  
@@ -57,13 +62,14 @@ A high-performance AI inference API, built with Rust, optimized to outperform Fl
 
 ---
 
-## **📫 Connect with Me**
-- **GitHub** → [github.com/dawdameet](#)  
-- **LinkedIn** → [linkedin.com/in/meetdawda](#)  
-- **Email** → dawdameet6338@gmail.com (DM me if you want to build something wild!)  
+## 📫 **Let's Connect**
+- 🏗 **GitHub** → [github.com/dawdameet](#)  
+- 💼 **LinkedIn** → [linkedin.com/in/meetdawda](#)  
+- 📩 **Email** → dawdameet6338@gmail.com  
 
 ---
 
-## **🌟 Motto**
-_"The best way to predict the future is to invent it."_ 🚀  
+## 🎤 **Fun Fact**
+🔥 **Eminem fan**—because hacking, coding, and rapping are all about **flow.** 🎶  
 
+_"The best way to predict the future is to invent it."_ 🚀  
