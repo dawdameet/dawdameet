@@ -31,6 +31,8 @@ A minimalist **bare-metal OS** featuring an **AI-powered debugging assistant** t
 ### **🌐 4. A Web3 GitHub Alternative (Rust + Solidity)**  
 A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**—because **GitHub shouldn't be centralized.**  
 
+### **🚀 5. Low-Latency AI API (Rust on Windows)
+A high-performance AI inference API, built with Rust, optimized to outperform Flask and FastAPI for real-time AI applications.
 ---
 
 ## **⚡ Notable Projects**
