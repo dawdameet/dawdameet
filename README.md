@@ -27,6 +27,9 @@ Researching **AI-driven LLVM IR optimizations** for **faster ML execution**.
 ### 🌐 **5. Web3 GitHub Alternative (Rust + Solidity)**
 A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**.  
 
+### 🔢 **6. TensorDB (Rust + JNI)**
+A **JNI-integrated Rust library** for high-performance **tensor operations in Java**.  
+
 ---
 
 ## 📌 **Technical Expertise**
@@ -50,6 +53,7 @@ A **decentralized, blockchain-powered version control system** using **Rust, Eth
 | **🔍 AI Fraud Detection (Android)** | **RandomForest-powered ML model** to detect fraudulent transactions |
 | **🔧 Kapitan Contribution** | Implemented **remote inventory fetching** for Kapitan (**https/git**) |
 | **📈 Stock Price Prediction AI** | Built a **time-series ML model** for **predicting Indian stock trends** |
+| **🔢 TensorDB** | A **Rust + JNI library** for high-speed **tensor computations in Java** |
 
 ---
 
@@ -72,4 +76,5 @@ A **decentralized, blockchain-powered version control system** using **Rust, Eth
 ## 🎤 **Fun Fact**
 🔥 **Eminem fan**—because hacking, coding, and rapping are all about **flow.** 🎶  
 
-_"The best way to predict the future is to invent it."_ 🚀  
+_"The best way to predict the future is to invent it."_ 🚀
+
