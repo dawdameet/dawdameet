@@ -1,80 +1,76 @@
-# ⚡ Meet Dawda | AI-Native Systems Engineer & Cybersecurity Enthusiast  
+# Meet Dawda | AI-Native Systems Engineer & Cybersecurity Enthusiast
 
-🚀 **Low-Level AI Innovator | OS & Compiler Dev | Rust & Cybersecurity Geek**  
-
-Hey there! I'm **Meet**, an **AI/ML researcher, systems programmer, and security geek** who thrives on **low-level engineering and bleeding-edge AI**. Whether it's **designing AI-native compilers, optimizing neural networks, or crafting my own OS**, I **love pushing technology beyond its limits.**  
-
-🔥 **I break systems, optimize them, and rebuild them better.**  
+I’m Meet, a systems programmer and AI/ML researcher focused on low-level engineering, AI-native tools, and modern compiler design. From building operating systems and optimizing compilers to designing fast inference APIs and embedded AI runtimes, I enjoy working at the intersection of software performance and intelligent systems.
 
 ---
 
-## 🛠️ **Building the Future of AI & Systems**  
-### 🚀 **1. Low-Latency AI API (Rust on Windows)**
-A high-performance **AI inference API** designed to **outperform Flask and FastAPI** for real-time AI applications.  
+## Projects & Focus Areas
 
-### 🦾 **2. AI-Native Programming Language (Rust & LLVM)**
-A **self-sufficient AI programming language** with:  
-- **🧮 Built-in tensors & automatic differentiation**  
-- **🚀 GPU acceleration for deep learning**  
-- **⚡ YAML-inspired, AI-first syntax**  
+### 1. Low-Latency AI API (Rust on Windows)
+A custom-built AI inference API optimized for real-time use cases, significantly faster than Flask/FastAPI for production deployment.
 
-### 💻 **3. Bare-Metal AI Accelerator (Rust + Assembly)**
-A **lightweight AI framework** that runs **directly on hardware** without an OS—optimized for **embedded AI systems**.  
+### 2. AI-Native Programming Language (Rust & LLVM)
+Designing a new language tailored for machine learning workloads:
+- Built-in tensor support and autodiff
+- GPU acceleration
+- Lightweight, YAML-inspired syntax
 
-### 🛡️ **4. AI-Powered Compiler Optimization**
-Researching **AI-driven LLVM IR optimizations** for **faster ML execution**.  
+### 3. Bare-Metal AI Accelerator (Rust + Assembly)
+A minimal AI runtime running directly on hardware—no OS—targeted for embedded inference systems.
 
-### 🌐 **5. Web3 GitHub Alternative (Rust + Solidity)**
-A **decentralized, blockchain-powered version control system** using **Rust, Ethers.js, MetaMask, and Hardhat**.  
+### 4. Compiler Optimization via AI
+Research into LLVM IR optimization using AI/ML models to improve runtime performance of ML pipelines.
 
-### 🔢 **6. TensorDB (Rust + JNI)**
-A **JNI-integrated Rust library** for high-performance **tensor operations in Java**.  
+### 5. Decentralized Version Control (Rust + Solidity)
+An experimental GitHub alternative built with smart contracts, Rust, and Ethers.js, focusing on decentralized code collaboration.
 
----
-
-## 📌 **Technical Expertise**
-| **🔥 Field** | **🚀 Skills & Tools** |
-|-------------|------------------|
-| **⚙️ Low-Level Engineering** | OS dev, assembly, reverse engineering, Rust systems programming |
-| **🧠 AI & ML Research** | NLP, stock prediction, AI-powered compilers, fraud detection |
-| **🔍 Cybersecurity & Networking** | Raw sockets, exploit research, Tor relays, deep packet inspection |
-| **📡 Advanced Protocols** | TCP/IP, WebRTC, DNS, P2P, decentralized networking |
-| **🖥️ Compiler & JIT Dev** | LLVM, MLIR, Rust-based JIT interpreters, AI-first languages |
-| **🌐 Web3 & Blockchain** | Smart contracts, Ethers.js, Solidity, on-chain GitHub alternative |
+### 6. TensorDB (Rust + JNI)
+A high-performance JNI-integrated tensor computation library for Java applications.
 
 ---
 
-## 🌟 **Notable Projects**
-| **🚀 Project** | **🔍 Description** |
-|--------------|-------------------|
-| **🦀 Rust-Based JIT Compiler** | Built a **JIT interpreter** using **Rust & LLVM** for **high-speed execution** |
-| **🛡️ Raw Socket Sniffer** | A **packet sniffer** that analyzes low-level network traffic |
-| **🏥 AI Emergency Response System** | A **React Native AI-powered ambulance routing system** for rural India |
-| **🔍 AI Fraud Detection (Android)** | **RandomForest-powered ML model** to detect fraudulent transactions |
-| **🔧 Kapitan Contribution** | Implemented **remote inventory fetching** for Kapitan (**https/git**) |
-| **📈 Stock Price Prediction AI** | Built a **time-series ML model** for **predicting Indian stock trends** |
-| **🔢 TensorDB** | A **Rust + JNI library** for high-speed **tensor computations in Java** |
+## Technical Expertise
+
+| Domain                    | Skills & Tools                                                 |
+|---------------------------|----------------------------------------------------------------|
+| Systems & OS Development  | Rust, x86 Assembly, bootloaders, kernel design, memory mgmt    |
+| Compilers & Optimization  | LLVM, MLIR, JIT interpreters, Rust backends                    |
+| AI/ML Applications        | PyTorch, ONNX, embedded ML, AI-first language design           |
+| Networking & Security     | Raw sockets, DPI, exploit research, Tor, DNS, WebRTC           |
+| Web3/Blockchain           | Solidity, Ethers.js, smart contract dev                        |
 
 ---
 
-## 📚 **Currently Learning**
-- 🦀 **Advanced Rust (for OS dev, JIT compilers, AI optimizations)**  
-- 🔥 **AI-powered compiler optimizations (LLVM, MLIR, Rust backends)**  
-- 🌐 **Advanced networking (WebRTC, P2P, deep packet inspection)**  
-- 🏗 **Bare-metal AI & embedded deep learning**  
-- 📱 **React Native for mobile AI applications**  
+## Highlighted Projects
+
+| Project                      | Description                                                    |
+|------------------------------|----------------------------------------------------------------|
+| Rust-Based JIT Compiler      | Built a fast JIT interpreter using Rust and LLVM               |
+| Raw Socket Sniffer           | A packet sniffer for low-level traffic inspection              |
+| AI Ambulance System          | Routing system for rural India using React Native + ML         |
+| Fraud Detection App          | Android app using RandomForest for transaction fraud detection |
+| Kapitan Contribution         | Added HTTPS/Git-based remote inventory fetching                |
+| TensorDB                     | JNI-based tensor library for Java using Rust backend           |
+| Stock Prediction Model       | ML pipeline for Indian stock time-series prediction            |
 
 ---
 
-## 📫 **Let's Connect**
-- 🏗 **GitHub** → [github.com/dawdameet](#)  
-- 💼 **LinkedIn** → [linkedin.com/in/meetdawda](#)  
-- 📩 **Email** → dawdameet6338@gmail.com  
+## Currently Exploring
+
+- Advanced Rust for OS and compiler internals  
+- MLIR and AI-based compiler optimization  
+- WebRTC and P2P networking  
+- Embedded AI runtime on bare metal  
+- Mobile AI apps with React Native
 
 ---
 
-## 🎤 **Fun Fact**
-🔥 **Eminem fan**—because hacking, coding, and rapping are all about **flow.** 🎶  
+## Contact
 
-_"The best way to predict the future is to invent it."_ 🚀
+- GitHub: [github.com/dawdameet](https://github.com/dawdameet)  
+- LinkedIn: [linkedin.com/in/meetdawda](https://linkedin.com/in/meetdawda)  
+- Email: dawdameet6338@gmail.com  
 
+---
+
+> "The best way to predict the future is to invent it."
